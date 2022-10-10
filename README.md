@@ -1,2 +1,5 @@
 # badge
 demo
+
+
+npm install
